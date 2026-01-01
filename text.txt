@@ -1,0 +1,15 @@
+Datasets Used
+1. Fake and Real News Data (Kaggle — Subhajournal)
+Link: https://www.kaggle.com/datasets/subhajournal/fake-and-real-news-data
+
+2. Fake and Real News Dataset (Kaggle — Clément Bisaillon)
+Link: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
+3. Fake News Classification on WELFake (Kaggle — Saurabh Shahane)
+Link: https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
+
+4. Fake News Detection Dataset (Kaggle — Mahdi Mashayekhi)
+Link: https://www.kaggle.com/datasets/mahdimashayekhi/fake-news-detection-dataset
+
+5. Fake News Detection Dataset — English (Hugging Face — Erfan Moosavi Monazzah)
+Link: https://huggingface.co/datasets/ErfanMoosaviMonazzah/fake-news-detection-dataset-English
